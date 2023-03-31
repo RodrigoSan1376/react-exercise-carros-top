@@ -4,14 +4,15 @@
   --ct-color-bg-primary: #fff;
   --ct-color-bg-secondary: #f78b00;
   --ct-color-bg-tertiary: #00285f;
+  --ct-color-bg-quaternary: #ededed;
 
-  --ct-color-border-primary: #A7A7A7;
+  --ct-color-border-primary: #a7a7a7;
 
   --ct-color-font-primary: #000;
   --ct-color-font-secondary: #585858;
   --ct-color-font-tertiary: #00285f;
   --ct-color-font-quaternary: #ffffff;
-  --ct-color-font-placeholder: #A7A7A7;
+  --ct-color-font-placeholder: #a7a7a7;
 }
 
 * {
